@@ -1,0 +1,19 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore the virtual environment
+venv/
+
+# Ignore the generated content file
+generated_content.txt
+
+# data
+uploaded_file.txt
+
+# test
+test*
+
+config.json
